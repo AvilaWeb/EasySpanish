@@ -217,7 +217,7 @@ text-decoration:none;
 @media (max-width: 768px)  {
   #home {
     display: flex;
-    height: 70vh;
+    height: 60vh;
     background: url("../images/board.1.jpg");
     background-size: cover;
   }
@@ -412,7 +412,7 @@ margin-left: -15em;
 
 @media (max-width: 768px) {
   .button1 {
-    padding-top: 9.7em;
+    padding-top: 8.7em;
     padding-left: 5em;
     margin-left: -18.5em;
     padding-right: 5em;
