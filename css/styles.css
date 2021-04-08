@@ -371,9 +371,9 @@ animation: blink 0.5s infinite ease;
   position: absolute;
 right: -5px;
 width: 0.5px;
-height: 55%;
+/* height: 55%; */
 /* border-right: 2px solid #111; */
-animation: blink 0.5s infinite ease;
+/* animation: blink 0.5s infinite ease; */
 }
 }
 @keyframes blink {
@@ -419,7 +419,7 @@ margin-left: -15em;
 
 @media (max-width: 768px) {
   .button1 {
-    padding-top: 9em;
+    padding-top: 10.5em;
     padding-left: 5em;
     margin-left: -18.5em;
     padding-right: 5em;
