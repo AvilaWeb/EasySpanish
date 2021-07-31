@@ -29,7 +29,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction));
 const sr = ScrollReveal({
     origin: 'top',
     distance: '80px',
-    duration: 2000,
+    duration: 2500,
     reset: true
 });
 
@@ -68,7 +68,7 @@ sr.reveal('.contact-me', {interval: 200});
 
 /*Typer*/
 
-const texts = ["with grammar", "with vocabulary", "to speak Spanish"];
+const texts = ["with grammar", "to speak Spanish"];
 let count = 0;
 let index = 0;
 let currentText = "";
