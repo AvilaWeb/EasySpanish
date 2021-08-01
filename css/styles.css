@@ -858,10 +858,13 @@ h1, h2, h3, h4, h5, h6 {
   }
 
 
-
 .center {
   padding left: 5em;
   padding-top: 2em;
   padding-botton: 3em;
     
     }
+
+.talkto {
+  width: 10em;
+      }
