@@ -844,7 +844,7 @@ h1, h2, h3, h4, h5, h6 {
 
     @media (max-width: 767px) {
       .video{
-        margin-left: 2.2em;
+        margin-left: 3em;
       }
     }
   @media (max-width: 767px) {
@@ -864,6 +864,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-botton: 3em;
     
     }
+
+@media screen and (min-width: 768px){
+  .talki{
+padding-botton:2em;
+  }
+}
 
 .taki:hoever {
   background-color: #f05454;
