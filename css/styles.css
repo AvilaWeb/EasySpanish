@@ -1,3 +1,5 @@
+
+
 /*===== VARIABLES CSS =====*/
 :root{
   --header-height: 3rem;
@@ -854,3 +856,12 @@ h1, h2, h3, h4, h5, h6 {
     margin-left: 2em;
     margin-top: 10px; }
   }
+
+
+
+.center {
+  padding left: 5em;
+  padding-top: 2em;
+  padding-botton: 3em;
+    
+    }
